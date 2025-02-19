@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/euraka-server/euraka-server.iml" filepath="$PROJECT_DIR$/euraka-server/euraka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/supermarket-mcroservice.iml" filepath="$PROJECT_DIR$/supermarket-mcroservice.iml" />
     </modules>
   </component>

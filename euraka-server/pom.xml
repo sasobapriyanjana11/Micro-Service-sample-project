@@ -11,8 +11,8 @@
 	<groupId>lk.ijse</groupId>
 	<artifactId>euraka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>euraka-server</name>
-	<description>euraka-server</description>
+	<name>eureka-server</name>
+	<description>eureka-server</description>
 	<url/>
 	<licenses>
 		<license/>
